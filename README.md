@@ -104,7 +104,7 @@ Using it on someone else's device **without permission** is **illegal** in many 
 **Balogun Usman**
 Senior Backend Developer | Python Security Enthusiast
 📍 Based in Nigeria
-🔗 GitHub: [@dollarhunter](https://github.com/dollarhunter) *(optional)*
+🔗 GitHub: [@dollarhunter](https://github.com/usmanbalogun044) 
 
 ---
 
