@@ -122,11 +122,3 @@ Senior Backend Developer | Python Security Enthusiast
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-```
-
----
-
-Would you like me to also generate a `requirements.txt`, `.gitignore`, and maybe a `.bat` file to auto-run it on Windows?
-```
