@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-> **Created by Balogun Usman (a.k.a. Dollarhunter)**  
+> **Created by Usman Balogun Temitope(a.k.a. Dollarhunter)**  
 > For **educational and ethical hacking purposes only**.
 
 ---
@@ -101,7 +101,7 @@ Using it on someone else's device **without permission** is **illegal** in many 
 
 ## 👨‍💻 Author
 
-**Balogun Usman**
+**Balogun Usman Temitope**
 Senior Backend Developer | Python Security Enthusiast
 📍 Based in Nigeria
 🔗 GitHub: [@dollarhunter](https://github.com/usmanbalogun044) 
